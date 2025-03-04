@@ -30,13 +30,15 @@
 ## Questions
 
 1. Name two Linux commands from this course that you found most valuable. For each:
-   * Briefly describe its function
-   * Explain why it's essential for new engineers (in your own words)
-
+   
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+* cd (change the directory in the system)
+   It is essential for us to get into or change directories and work with the files as we need.
+
+   * pwd(show the current opsition in the system)
+   Useful with cd as it shows the relative path of us so we can change directories easier.
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+If you are interest in this subjust, it gonna be easy . So consider before you choose the major. This is interesting major that can be useable in our life. Teaching is perfect and all the professor are patient.If you have any problem, the senior are ready to help you and they are very friendly.See you next year.
